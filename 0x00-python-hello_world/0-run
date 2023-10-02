@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-echo "Best school"
+export $PYFILE=0-run
