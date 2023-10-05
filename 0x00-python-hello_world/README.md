@@ -4,7 +4,7 @@
 
 ## 📌 Summary
 
-This project covers the basic foundations of Python programming. You'll dive into the world of variables, loops, and scripts, preparing you for more complex Python tasks in the future. Welcome to the Python world! Enjoy the tasks, and remember: **Python is fun!** 🚀
+This project covers the basic foundations of Python programming. We will dive into the world of variables, loops, and scripts, in preparation for more complex Python tasks in the future.  **Python is fun!** 🚀
 
 ---
 
@@ -36,7 +36,67 @@ Write a Python script that prints a specific message.
 
 ---
 
-... [Add more tasks here in a similar format]
+### 3. Print integer
+
+Modify a source code to print a specific output format.
+
+[File: 3-print_number.py](3-print_number.py)
+
+---
+
+### 4. Print float
+
+Adjust the provided source code to print a float to two decimal places.
+
+[File: 4-print_float.py](4-print_float.py)
+
+---
+
+### 5. Print string
+
+Modify the source code to print a string in a particular format.
+
+[File: 5-print_string.py](5-print_string.py)
+
+---
+
+### 6. Play with strings
+
+Adjust the provided code to print a welcoming message.
+
+[File: 6-concat.py](6-concat.py)
+
+---
+
+### 7. Copy - Cut - Paste
+
+Modify the given source code to manipulate a string.
+
+[File: 7-edges.py](7-edges.py)
+
+---
+
+### 8. Create a new sentence
+
+Complete the source code to print a new sentence.
+
+[File: 8-concat_edges.py](8-concat_edges.py)
+
+---
+
+### 9. Easter Egg
+
+Write a script that displays a special message.
+
+[File: 9-easter_egg.py](9-easter_egg.py)
+
+---
+
+### 10. Linked list cycle
+
+Write a C function to check if a singly linked list has a cycle.
+
+[File: 10-check_cycle.c, lists.h](10-check_cycle.c)
 
 ---
 
@@ -65,3 +125,4 @@ Write the Python function that reproduces specific bytecode behavior.
 [File: 102-magic_calculation.py](102-magic_calculation.py)
 
 ---
+
